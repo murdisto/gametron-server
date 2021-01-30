@@ -24,11 +24,11 @@ app.use(
 	})
 );
 
-// app.use(
-// 	cors({
-// 		origin: CLIENT_ORIGIN,
-// 	})
-// );
+app.use(
+	cors({
+		origin: '*',
+	})
+);
 
 //image post
 app.use(jsonParser);
