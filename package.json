@@ -23,7 +23,7 @@
     "express-form-data": "^2.0.8",
     "jsonwebtoken": "^8.4.0",
     "knex": "^0.15.2",
-    "mongoose": "^5.4.11",
+    "mongoose": "^5.7.5",
     "morgan": "^1.9.1",
     "nodemailer": "^5.1.1",
     "passport": "^0.4.0",
